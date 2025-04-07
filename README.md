@@ -16,6 +16,9 @@ To help the **National Capital Commission (NCC)** monitor the skateway efficient
 
 ###  Architecture Diagram
 
+![image](https://github.com/user-attachments/assets/65c17826-e5f4-4b69-a68f-9dcb8af75273)
+
+
 ```
 Simulated IoT Sensors (Python Script)
         ↓
