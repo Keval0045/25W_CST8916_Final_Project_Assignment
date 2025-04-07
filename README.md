@@ -205,21 +205,6 @@ GROUP BY
 
 ---
 
-## Repository Structure
-
-```
-25W_CST8916_Final_Project_Assignment/
-├── README.md
-├── sensor-simulation/
-│   └── simulate_sensors.py
-├── screenshots/
-│   ├── iot-hub.png
-│   ├── stream-analytics.png
-│   └── blob-storage.png
-```
-
----
-
 ## Author
 
 **Keval Trivedi 041167761**  
