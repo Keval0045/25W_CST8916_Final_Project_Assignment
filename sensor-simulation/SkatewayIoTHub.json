@@ -1,0 +1,434 @@
+[
+  {
+    "location": "NAC",
+    "iceThickness": 34,
+    "surfaceTemperature": -10,
+    "snowAccumulation": 6,
+    "externalTemperature": -8.3,
+    "timestamp": "2025-04-07T19:19:47.304361Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5194829Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:19:47.7000000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:19:47.5760000Z"
+    }
+  },
+  {
+    "location": "Dow's Lake",
+    "iceThickness": 28,
+    "surfaceTemperature": -4,
+    "snowAccumulation": 8,
+    "externalTemperature": -5.3,
+    "timestamp": "2025-04-07T19:19:57.874674Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5202504Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:19:57.9660000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:19:57.8890000Z"
+    }
+  },
+  {
+    "location": "Dow's Lake",
+    "iceThickness": 22,
+    "surfaceTemperature": -7.2,
+    "snowAccumulation": 3,
+    "externalTemperature": -2.6,
+    "timestamp": "2025-04-07T19:20:08.022361Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5202986Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:20:08.1220000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:20:08.0340000Z"
+    }
+  },
+  {
+    "location": "Dow's Lake",
+    "iceThickness": 25,
+    "surfaceTemperature": -6.9,
+    "snowAccumulation": 13,
+    "externalTemperature": 4.9,
+    "timestamp": "2025-04-07T19:20:18.182274Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5203163Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:20:18.2790000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:20:18.1910000Z"
+    }
+  },
+  {
+    "location": "Dow's Lake",
+    "iceThickness": 35,
+    "surfaceTemperature": -7.9,
+    "snowAccumulation": 12,
+    "externalTemperature": 0.2,
+    "timestamp": "2025-04-07T19:20:28.326890Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5203310Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:20:28.4200000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:20:28.3350000Z"
+    }
+  },
+  {
+    "location": "Dow's Lake",
+    "iceThickness": 21,
+    "surfaceTemperature": -5.1,
+    "snowAccumulation": 4,
+    "externalTemperature": -13.3,
+    "timestamp": "2025-04-07T19:20:38.468452Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5203434Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:20:38.7010000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:20:38.6000000Z"
+    }
+  },
+  {
+    "location": "Dow's Lake",
+    "iceThickness": 27,
+    "surfaceTemperature": -1.3,
+    "snowAccumulation": 6,
+    "externalTemperature": 0.8,
+    "timestamp": "2025-04-07T19:20:48.755812Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5203586Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:20:48.8420000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:20:48.7670000Z"
+    }
+  },
+  {
+    "location": "NAC",
+    "iceThickness": 27,
+    "surfaceTemperature": -3.7,
+    "snowAccumulation": 15,
+    "externalTemperature": 3.4,
+    "timestamp": "2025-04-07T19:20:58.886683Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5203715Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:20:58.9830000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:20:58.9000000Z"
+    }
+  },
+  {
+    "location": "Dow's Lake",
+    "iceThickness": 30,
+    "surfaceTemperature": -5.7,
+    "snowAccumulation": 12,
+    "externalTemperature": -6.8,
+    "timestamp": "2025-04-07T19:21:09.040252Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5203857Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:21:09.1230000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:21:09.0520000Z"
+    }
+  },
+  {
+    "location": "Dow's Lake",
+    "iceThickness": 33,
+    "surfaceTemperature": -9.9,
+    "snowAccumulation": 10,
+    "externalTemperature": 4.7,
+    "timestamp": "2025-04-07T19:21:19.188106Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5204001Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:21:19.2800000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:21:19.2070000Z"
+    }
+  },
+  {
+    "location": "NAC",
+    "iceThickness": 28,
+    "surfaceTemperature": -6.2,
+    "snowAccumulation": 7,
+    "externalTemperature": 3.8,
+    "timestamp": "2025-04-07T19:21:29.337562Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5204126Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:21:29.4210000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:21:29.3480000Z"
+    }
+  },
+  {
+    "location": "Dow's Lake",
+    "iceThickness": 30,
+    "surfaceTemperature": -1.1,
+    "snowAccumulation": 6,
+    "externalTemperature": -11.5,
+    "timestamp": "2025-04-07T19:21:39.472722Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5204276Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:21:39.5620000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:21:39.4850000Z"
+    }
+  },
+  {
+    "location": "Dow's Lake",
+    "iceThickness": 30,
+    "surfaceTemperature": -3.8,
+    "snowAccumulation": 13,
+    "externalTemperature": -12.3,
+    "timestamp": "2025-04-07T19:21:49.612592Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5204408Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:21:49.6870000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:21:49.6200000Z"
+    }
+  },
+  {
+    "location": "Dow's Lake",
+    "iceThickness": 29,
+    "surfaceTemperature": -6,
+    "snowAccumulation": 1,
+    "externalTemperature": -11.9,
+    "timestamp": "2025-04-07T19:21:59.737415Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5204526Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:21:59.8280000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:21:59.7470000Z"
+    }
+  },
+  {
+    "location": "Fifth Avenue",
+    "iceThickness": 29,
+    "surfaceTemperature": -3.2,
+    "snowAccumulation": 12,
+    "externalTemperature": -5.8,
+    "timestamp": "2025-04-07T19:22:09.882635Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5204666Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:22:09.9690000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:22:09.8940000Z"
+    }
+  },
+  {
+    "location": "Dow's Lake",
+    "iceThickness": 30,
+    "surfaceTemperature": -7.8,
+    "snowAccumulation": 10,
+    "externalTemperature": 0,
+    "timestamp": "2025-04-07T19:52:41.293997Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5204787Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:52:41.5350000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:52:41.4100000Z"
+    }
+  },
+  {
+    "location": "NAC",
+    "iceThickness": 30,
+    "surfaceTemperature": -9.2,
+    "snowAccumulation": 3,
+    "externalTemperature": -10.8,
+    "timestamp": "2025-04-07T19:52:51.596151Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5204914Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:52:51.6760000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:52:51.6050000Z"
+    }
+  },
+  {
+    "location": "NAC",
+    "iceThickness": 22,
+    "surfaceTemperature": -4.7,
+    "snowAccumulation": 9,
+    "externalTemperature": -2.3,
+    "timestamp": "2025-04-07T19:53:01.757659Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5205035Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:53:01.8480000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:53:01.7650000Z"
+    }
+  },
+  {
+    "location": "NAC",
+    "iceThickness": 22,
+    "surfaceTemperature": -8.2,
+    "snowAccumulation": 4,
+    "externalTemperature": -2.8,
+    "timestamp": "2025-04-07T19:53:11.895686Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5205179Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:53:11.9730000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:53:11.9020000Z"
+    }
+  },
+  {
+    "location": "Fifth Avenue",
+    "iceThickness": 32,
+    "surfaceTemperature": -1.5,
+    "snowAccumulation": 11,
+    "externalTemperature": 0.8,
+    "timestamp": "2025-04-07T19:53:22.027601Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5205302Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:53:22.1130000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:53:22.0340000Z"
+    }
+  },
+  {
+    "location": "Fifth Avenue",
+    "iceThickness": 35,
+    "surfaceTemperature": -0.8,
+    "snowAccumulation": 1,
+    "externalTemperature": 1.3,
+    "timestamp": "2025-04-07T19:53:32.162148Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5205442Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T19:53:32.2380000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T19:53:32.1730000Z"
+    }
+  },
+  {
+    "location": "Fifth Avenue",
+    "iceThickness": 31,
+    "surfaceTemperature": -4.6,
+    "snowAccumulation": 13,
+    "externalTemperature": -0.8,
+    "timestamp": "2025-04-07T20:13:22.150315Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5205578Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T20:13:22.3960000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T20:13:22.2870000Z"
+    }
+  },
+  {
+    "location": "Dow's Lake",
+    "iceThickness": 25,
+    "surfaceTemperature": -5.8,
+    "snowAccumulation": 8,
+    "externalTemperature": 4.6,
+    "timestamp": "2025-04-07T20:13:32.450318Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5205697Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T20:13:32.5680000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T20:13:32.4860000Z"
+    }
+  },
+  {
+    "location": "Fifth Avenue",
+    "iceThickness": 26,
+    "surfaceTemperature": -5.1,
+    "snowAccumulation": 2,
+    "externalTemperature": -5.8,
+    "timestamp": "2025-04-07T20:13:42.586601Z",
+    "EventProcessedUtcTime": "2025-04-07T20:13:54.5205835Z",
+    "PartitionId": 1,
+    "EventEnqueuedUtcTime": "2025-04-07T20:13:42.6940000Z",
+    "IoTHub": {
+      "MessageId": null,
+      "CorrelationId": null,
+      "ConnectionDeviceId": "sensor-simulator",
+      "ConnectionDeviceGenerationId": "638796499078757910",
+      "EnqueuedTime": "2025-04-07T20:13:42.6290000Z"
+    }
+  }
+]
