@@ -62,7 +62,7 @@ This flow enables near real-time visibility into conditions across multiple cana
 }
 ```
 
-- Script uses **`paho-mqtt`** and **`azure-iot-device`** to push data to Azure IoT Hub.
+- Script uses **`azure-iot-device`** to push data to Azure IoT Hub.
 - Located under `sensor-simulation/simulate_sensors.py`.
 
 ---
