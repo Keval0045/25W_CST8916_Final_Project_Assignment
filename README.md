@@ -1,7 +1,5 @@
 # 25W_CST8916_Final_Project_Assignment
 
-Absolutely! Here's a polished and detailed `README.md` structured exactly according to your evaluation rubric:
-
 ---
 
 #  Rideau Canal Skateway – Real-Time Monitoring System
